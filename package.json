@@ -15,6 +15,7 @@
     "@heroicons/react": "^2.2.0",
     "@jridgewell/resolve-uri": "^3.1.2",
     "@tailwindcss/vite": "^4.1.10",
+    "@vitejs/plugin-react": "^5.1.1",
     "axios": "^1.10.0",
     "clsx": "^2.1.1",
     "framer-motion": "^12.18.1",
